@@ -2,4 +2,6 @@
     "BOT": "Tere!\nMina olen Haridustehnobot - robot, mis aitab sul haridustehnoloogiat kasutada.\n Kas sa tahad infot haridustehnoloogilise vahendi kohta või soovid kasutada HIK ruume? %[Tahan infot vahendite kohta](postback:info_vahendite_kohta) %[Kasutan HIK ruume](postback:HIK-ruumijuhend)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
+    "info-vahendite-kohta": "Infot erinevate vahendite kohta leiad lehelt tlu.ee/seadmekogu"
+    "HIK-ruumijuhend": "Interaktiivse HIK ruumijuhendi leiad lehelt tlu.ee/hikruumijuhend"
 }
